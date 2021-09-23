@@ -10,9 +10,13 @@ Standard parameters are included in the script, but arguments can be passed in.
 ### command line arguements/parameters:
 
 -d, --device: devices you would like to benchmark
--s, -- ize: size of FIO file genereated during benchmark
+
+-s, --size: size of FIO file genereated during benchmark
+
 -o, --output: folder to save FIO output + CSV file if requested
+
 -rw, --readwrite: (random or sequential)(read,write)
+
 -n, --numjobs: number of jobs to run
 
 **Examples**:
