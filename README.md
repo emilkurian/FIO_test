@@ -1,6 +1,7 @@
 # FIO_test
 
 **Purpose** : Quick script to help automate FIO runs
+**NOTE** : The script is very cobbled together, feel free to make changes
 
 ## Usage
 
