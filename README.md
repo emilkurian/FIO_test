@@ -20,6 +20,6 @@ Standard parameters are included in the script, but arguments can be passed in.
 
 Will run all the default values
 
-'python3 fioTest.py fioTest.py -d /dev/sda -s 1G -o test_folder -n 16 -rw randread -c'
+`python3 fioTest.py fioTest.py -d /dev/sda -s 1G -o test_folder -n 16 -rw randread -c`
 
 Will run random read testing on /dev/sda, with a file size of 1 GB, numjobs of 16, and save all output and a CSV of the data in a subfolder test_folder
